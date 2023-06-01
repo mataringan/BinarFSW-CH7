@@ -9,16 +9,16 @@ Tugas kalian disini adalah:
 
 ## HTTP request methods
 
-1. Handle Root (GET) = binarfsw-ch7-production.up.railway.app/
-2. List Car (GET) = binarfsw-ch7-production.up.railway.app/v1/cars
-3. Get Car (GET) = binarfsw-ch7-production.up.railway.app/v1/cars/:id
-4. Create Car (POST) = binarfsw-ch7-production.up.railway.app/v1/cars
-5. Update Car (PUT) = binarfsw-ch7-production.up.railway.app/v1/cars/:id
-6. Delete Car (DELETE) = binarfsw-ch7-production.up.railway.app/v1/cars/:id
-7. Rent Car (POST) = binarfsw-ch7-production.up.railway.app/v1/cars/:id/rent
-8. Login (POST) = binarfsw-ch7-production.up.railway.app/v1/auth/login
-9. Register (POST) = binarfsw-ch7-production.up.railway.app/v1/auth/register
-10. Who Am I (GET) = binarfsw-ch7-production.up.railway.app/v1/auth/whoami
+1. Handle Root (GET) = https://binarfsw-ch7-production.up.railway.app/
+2. List Car (GET) = https://binarfsw-ch7-production.up.railway.app/v1/cars
+3. Get Car (GET) = https://binarfsw-ch7-production.up.railway.app/v1/cars/:id
+4. Create Car (POST) = https://binarfsw-ch7-production.up.railway.app/v1/cars
+5. Update Car (PUT) = https://binarfsw-ch7-production.up.railway.app/v1/cars/:id
+6. Delete Car (DELETE) = https://binarfsw-ch7-production.up.railway.app/v1/cars/:id
+7. Rent Car (POST) = https://binarfsw-ch7-production.up.railway.app/v1/cars/:id/rent
+8. Login (POST) = https://binarfsw-ch7-production.up.railway.app/v1/auth/login
+9. Register (POST) = https://binarfsw-ch7-production.up.railway.app/v1/auth/register
+10. Who Am I (GET) = https://binarfsw-ch7-production.up.railway.app/v1/auth/whoami
 
 ## Test Results
 
