@@ -19,7 +19,7 @@ describe("POST /v1/cars", () => {
       });
   });
 
-  it("should response with 401 as status code", async () => {
+  it("401  status code", async () => {
     const name = "";
     const price = null;
     const size = "";

@@ -1,6 +1,5 @@
 const request = require("supertest");
 const app = require("../../../../app");
-const { Car } = require("../../../../app/models");
 
 describe("POST /v1/cars/:id/rent", () => {
   let token;

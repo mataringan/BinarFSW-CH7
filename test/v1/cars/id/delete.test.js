@@ -32,7 +32,7 @@ describe("DELETE /v1/cars/:id", () => {
     return car;
   });
 
-  it("should response with 401 as status code", async () => {
+  it("401 status code", async () => {
     jest.setTimeout(240000);
     return request(app)
       .delete(`/v1/cars/${car.id}`)

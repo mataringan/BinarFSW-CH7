@@ -32,7 +32,7 @@ describe("PUT /v1/cars/:id", () => {
     return car;
   });
 
-  it("should response with 401 as status code", async () => {
+  it("401 status code", async () => {
     const name = "";
     const price = 0;
     const size = "";
